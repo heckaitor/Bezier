@@ -32,10 +32,10 @@ dependencies {
 }
 
 publish {
-    userOrg = 'heckaitor'//bintray.com用户名
-    groupId = 'com.heckaitor'//jcenter上的路径
-    artifactId = 'bezier'//项目名称
-    publishVersion = '1.0.0'//版本号
-    desc = 'A View for bezier curve'//描述，不重要
-    website = 'https://github.com/hyman/basetools'
+    userOrg = 'heckaitor'
+    groupId = 'com.heckaitor'
+    artifactId = 'bezier'
+    publishVersion = '1.0.0'
+    desc = 'A View for bezier curve'
+    website = 'https://github.com/heckaitor/Bezier'
 }
